@@ -375,6 +375,7 @@ bccbcabaabaccab
 
 Nano ID 已被移植到许多语言。 你可以使用下面这些移植，获取在客户端和服务器端相同的ID生成器。
 
+* [C](https://github.com/lukateras/nanoid.h)
 * [C#](https://github.com/codeyu/nanoid-net)
 * [C++](https://github.com/mcmikecreations/nanoid_cpp)
 * [Clojure and ClojureScript](https://github.com/zelark/nano-id)
@@ -393,10 +394,11 @@ Nano ID 已被移植到许多语言。 你可以使用下面这些移植，获�
 * [Nim](https://github.com/icyphox/nanoid.nim)
 * [Perl](https://github.com/tkzwtks/Nanoid-perl)
 * [PHP](https://github.com/hidehalo/nanoid-php)
-* [Python](https://github.com/puyuan/py-nanoid)
+* Python [native](https://github.com/puyuan/py-nanoid) implementation
   with [dictionaries](https://pypi.org/project/nanoid-dictionary)
-* [Postgres Extension](https://github.com/spa5k/uids-postgres)
-* [Postgres Native Function](https://github.com/viascom/nanoid-postgres)
+  and [fast](https://github.com/oliverlambson/fastnanoid) implementation (written in Rust)
+* Postgres [Extension](https://github.com/spa5k/uids-postgres)
+  and [Native Function](https://github.com/viascom/nanoid-postgres)
 * [R](https://github.com/hrbrmstr/nanoid) (with dictionaries)
 * [Ruby](https://github.com/radeno/nanoid.rb)
 * [Rust](https://github.com/nikolay-govorov/nanoid)

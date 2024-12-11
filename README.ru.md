@@ -379,6 +379,7 @@ bccbcabaabaccab
 Nano ID был портирован на множество языков. Это полезно, чтобы сервер и клиент
 генерировали ID по одной схеме.
 
+- [C](https://github.com/lukateras/nanoid.h)
 - [C#](https://github.com/codeyu/nanoid-net)
 - [C++](https://github.com/mcmikecreations/nanoid_cpp)
 - [Clojure и ClojureScript](https://github.com/zelark/nano-id)
@@ -397,8 +398,9 @@ Nano ID был портирован на множество языков. Это
 - [Nim](https://github.com/icyphox/nanoid.nim)
 - [Perl](https://github.com/tkzwtks/Nanoid-perl)
 - [PHP](https://github.com/hidehalo/nanoid-php)
-- [Python](https://github.com/puyuan/py-nanoid)
+- Python [чистая](https://github.com/puyuan/py-nanoid)
   со [словарями](https://pypi.org/project/nanoid-dictionary)
+  и [быстрая](https://github.com/oliverlambson/fastnanoid) (на Rust)
 - Postgres: [Rust-расширение](https://github.com/spa5k/uids-postgres)
   и [на чисто pgSQL](https://github.com/viascom/nanoid-postgres)
 - [R](https://github.com/hrbrmstr/nanoid) (со словарями)

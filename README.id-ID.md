@@ -307,6 +307,7 @@ Bila ingin mengganti alfabet atau ukuran ID, dapat menggunakan [`nanoid-cli`](ht
 
 Nano ID telah bermigrasi ke berbagai macam bahasa. Seluruh versi dapat digunakan untuk mendapatkan ID generator yang sama pada sisi klien dan sisi penyedia layanan (_client-side_ dan _server-side_).
 
+- [C](https://github.com/lukateras/nanoid.h)
 - [C#](https://github.com/codeyu/nanoid-net)
 - [C++](https://github.com/mcmikecreations/nanoid_cpp)
 - [Clojure and ClojureScript](https://github.com/zelark/nano-id)
@@ -326,9 +327,11 @@ Nano ID telah bermigrasi ke berbagai macam bahasa. Seluruh versi dapat digunakan
 - [OCaml](https://github.com/routineco/ocaml-nanoid)
 - [Perl](https://github.com/tkzwtks/Nanoid-perl)
 - [PHP](https://github.com/hidehalo/nanoid-php)
-- [Python](https://github.com/puyuan/py-nanoid) with [dictionaries](https://pypi.org/project/nanoid-dictionary)
-- [Postgres Extension](https://github.com/spa5k/uids-postgres)
-- [Postgres Native Function](https://github.com/viascom/nanoid-postgres)
+- Python [native](https://github.com/puyuan/py-nanoid) implementation
+  with [dictionaries](https://pypi.org/project/nanoid-dictionary)
+  and [fast](https://github.com/oliverlambson/fastnanoid) implementation (written in Rust)
+- Postgres [Extension](https://github.com/spa5k/uids-postgres)
+  and [Native Function](https://github.com/viascom/nanoid-postgres)
 - [R](https://github.com/hrbrmstr/nanoid) (with dictionaries)
 - [Ruby](https://github.com/radeno/nanoid.rb)
 - [Rust](https://github.com/nikolay-govorov/nanoid)
