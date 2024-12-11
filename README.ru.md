@@ -385,7 +385,7 @@ Nano ID был портирован на множество языков. Это
 - [Clojure/ClojureScript](https://github.com/zelark/nano-id)
 - [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 - [Crystal](https://github.com/mamantoha/nanoid.cr)
-- [Dart и Flutter](https://github.com/pd4d10/nanoid-dart)
+- [Dart](https://github.com/pd4d10/nanoid-dart)
 - [Deno](https://github.com/ianfabs/nanoid)
 - [Elixir](https://github.com/railsmechanic/nanoid)
 - [Go](https://github.com/jaevor/go-nanoid)

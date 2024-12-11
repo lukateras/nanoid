@@ -406,7 +406,7 @@ the same ID generator on the client and server side.
 * [Clojure/ClojureScript](https://github.com/zelark/nano-id)
 * [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 * [Crystal](https://github.com/mamantoha/nanoid.cr)
-* [Dart & Flutter](https://github.com/pd4d10/nanoid-dart)
+* [Dart](https://github.com/pd4d10/nanoid-dart)
 * [Deno](https://github.com/ianfabs/nanoid)
 * [Elixir](https://github.com/railsmechanic/nanoid)
 * [Go](https://github.com/matoous/go-nanoid)
