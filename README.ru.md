@@ -402,7 +402,7 @@ Nano ID был портирован на множество языков. Это
   со [словарями](https://pypi.org/project/nanoid-dictionary)
   и [быстрая](https://github.com/oliverlambson/fastnanoid) (на Rust)
 - Postgres: [Rust-расширение](https://github.com/spa5k/uids-postgres)
-  и [на чисто pgSQL](https://github.com/viascom/nanoid-postgres)
+  и [на чистом pgSQL](https://github.com/viascom/nanoid-postgres)
 - [R](https://github.com/hrbrmstr/nanoid) (со словарями)
 - [Ruby](https://github.com/radeno/nanoid.rb)
 - [Rust](https://github.com/nikolay-govorov/nanoid)
