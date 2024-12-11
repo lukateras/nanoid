@@ -380,8 +380,8 @@ Nano ID был портирован на множество языков. Это
 генерировали ID по одной схеме.
 
 - [C](https://github.com/lukateras/nanoid.h)
-- [C#](https://github.com/codeyu/nanoid-net)
 - [C++](https://github.com/mcmikecreations/nanoid_cpp)
+- [C#](https://github.com/codeyu/nanoid-net)
 - [Clojure и ClojureScript](https://github.com/zelark/nano-id)
 - [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 - [Crystal](https://github.com/mamantoha/nanoid.cr)

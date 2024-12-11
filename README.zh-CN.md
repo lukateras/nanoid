@@ -376,8 +376,8 @@ bccbcabaabaccab
 Nano ID 已被移植到许多语言。 你可以使用下面这些移植，获取在客户端和服务器端相同的ID生成器。
 
 * [C](https://github.com/lukateras/nanoid.h)
-* [C#](https://github.com/codeyu/nanoid-net)
 * [C++](https://github.com/mcmikecreations/nanoid_cpp)
+* [C#](https://github.com/codeyu/nanoid-net)
 * [Clojure and ClojureScript](https://github.com/zelark/nano-id)
 * [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 * [Crystal](https://github.com/mamantoha/nanoid.cr)

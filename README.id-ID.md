@@ -308,8 +308,8 @@ Bila ingin mengganti alfabet atau ukuran ID, dapat menggunakan [`nanoid-cli`](ht
 Nano ID telah bermigrasi ke berbagai macam bahasa. Seluruh versi dapat digunakan untuk mendapatkan ID generator yang sama pada sisi klien dan sisi penyedia layanan (_client-side_ dan _server-side_).
 
 - [C](https://github.com/lukateras/nanoid.h)
-- [C#](https://github.com/codeyu/nanoid-net)
 - [C++](https://github.com/mcmikecreations/nanoid_cpp)
+- [C#](https://github.com/codeyu/nanoid-net)
 - [Clojure and ClojureScript](https://github.com/zelark/nano-id)
 - [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 - [Crystal](https://github.com/mamantoha/nanoid.cr)
