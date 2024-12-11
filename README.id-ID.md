@@ -310,7 +310,7 @@ Nano ID telah bermigrasi ke berbagai macam bahasa. Seluruh versi dapat digunakan
 - [C](https://github.com/lukateras/nanoid.h)
 - [C++](https://github.com/mcmikecreations/nanoid_cpp)
 - [C#](https://github.com/codeyu/nanoid-net)
-- [Clojure and ClojureScript](https://github.com/zelark/nano-id)
+- [Clojure/ClojureScript](https://github.com/zelark/nano-id)
 - [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 - [Crystal](https://github.com/mamantoha/nanoid.cr)
 - [Dart & Flutter](https://github.com/pd4d10/nanoid-dart)

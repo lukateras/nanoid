@@ -378,7 +378,7 @@ Nano ID 已被移植到许多语言。 你可以使用下面这些移植，获�
 * [C](https://github.com/lukateras/nanoid.h)
 * [C++](https://github.com/mcmikecreations/nanoid_cpp)
 * [C#](https://github.com/codeyu/nanoid-net)
-* [Clojure and ClojureScript](https://github.com/zelark/nano-id)
+* [Clojure/ClojureScript](https://github.com/zelark/nano-id)
 * [ColdFusion/CFML](https://github.com/JamoCA/cfml-nanoid)
 * [Crystal](https://github.com/mamantoha/nanoid.cr)
 * [Dart & Flutter](https://github.com/pd4d10/nanoid-dart)
