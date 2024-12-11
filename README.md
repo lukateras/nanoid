@@ -420,12 +420,14 @@ the same ID generator on the client and server side.
 * [OCaml](https://github.com/routineco/ocaml-nanoid)
 * [Perl](https://github.com/tkzwtks/Nanoid-perl)
 * [PHP](https://github.com/hidehalo/nanoid-php)
-* Python [native](https://github.com/puyuan/py-nanoid) implementation
-  with [dictionaries](https://pypi.org/project/nanoid-dictionary)
-  and [fast](https://github.com/oliverlambson/fastnanoid) implementation (written in Rust)
-* Postgres [Extension](https://github.com/spa5k/uids-postgres)
-  and [Native Function](https://github.com/viascom/nanoid-postgres)
-* [R](https://github.com/hrbrmstr/nanoid) (with dictionaries)
+* Python
+  - [pure](https://github.com/puyuan/py-nanoid)
+  - [with dictionaries](https://pypi.org/project/nanoid-dictionary)
+  - [fast in Rust](https://github.com/oliverlambson/fastnanoid)
+* Postgres
+  - [extension in Rust](https://github.com/spa5k/uids-postgres)
+  - [function in pure PL/pgSQL](https://github.com/viascom/nanoid-postgres)
+* [R (with dictionaries)](https://github.com/hrbrmstr/nanoid)
 * [Ruby](https://github.com/radeno/nanoid.rb)
 * [Rust](https://github.com/nikolay-govorov/nanoid)
 * [Swift](https://github.com/antiflasher/NanoID)
